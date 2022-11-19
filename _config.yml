@@ -22,7 +22,7 @@ title:            'Finding a Place'
 description:      'An AHRC/NEH-funded research project to advance digital methods and unlock the use of digitized book illustrations in cultural institutions'
 url:              'https://aeh0.github.io'
 baseurl:          '/findingaplace'
-copyright:        'Example copyright org, 2019'
+copyright:        'Cardiff University, 2022'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -104,25 +104,11 @@ search:
 
 menu:
   - label: 'About'
-    sub:
-      - label: 'Wax'
-        link: '/about/'
-      - label: 'Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
-      - label: 'Credits'
-        link: '/credits/'
-  - label: 'Exhibits'
-    sub:
-      - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
-  - label: 'Browse'
-    link: '/collection/'
-  - label: 'Search'
-    link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
+    link: '/about/'
+  - label: 'Research'
+    link: '/research/'
+  - label: 'Project team'
+    link: '/team/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
