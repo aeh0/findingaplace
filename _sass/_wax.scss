@@ -103,8 +103,8 @@ content section
   background-color: $bg-color;
   width: 100vw;
   max-width: 100%;
-  padding-top: $margin;
-  padding-bottom: $margin;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 
   h1, h2, h3, h4, h5, h5 {
     margin-bottom: $less-margin;
