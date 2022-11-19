@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+title:            'Finding a Place'
+description:      'An AHRC/NEH-funded research project to advance digital methods and unlock the use of digitized book illustrations in cultural institutions'
+url:              'https://aeh0.github.io'
+baseurl:          '/findingaplace'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -65,13 +65,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  findingaplace: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'findingaplace_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'metadata.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/findingaplace' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -85,7 +85,7 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      findingaplace:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - artist
