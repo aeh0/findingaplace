@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project team
-permalink: /team/
+title: Events
+permalink: /events/
 ---
 
