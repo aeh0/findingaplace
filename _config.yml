@@ -107,6 +107,8 @@ menu:
     link: '/about/'
   - label: 'Research'
     link: '/research/'
+  - label: 'Events'
+    link: '/events/'
   - label: 'Project team'
     link: '/team/'
 
