@@ -23,7 +23,7 @@ description:      'An AHRC/NEH-funded research project to advance digital method
 url:              'https://aeh0.github.io'
 baseurl:          '/findingaplace'
 copyright:        'Cardiff University, 2022'
-logo:             '/assets/logo.png'
+logo:             '/assets/globe.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
