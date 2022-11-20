@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Finding a Place'
-description:      'An AHRC/NEH-funded research project to advance digital methods and unlock the use of digitized book illustrations in cultural institutions'
+description:      'An AHRC/NEH-funded research project to advance digital methods and unlock the use of digitized book illustrations in cultural institutions.'
 url:              'https://aeh0.github.io'
 baseurl:          '/findingaplace'
 copyright:        'Cardiff University, 2022'
