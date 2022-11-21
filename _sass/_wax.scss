@@ -54,7 +54,8 @@ header & nav bar
   font-family: $heading-font;
   color: $text-color;
   z-index: 100000;
-  padding: 0;
+  padding-top: $margin;
+  padding-bottom: $margin;
   letter-spacing: 0.075rem;
 
   .navbar-brand {
