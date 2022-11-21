@@ -33,7 +33,7 @@ permalink: /team/
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/MaryBeth.jpg" alt="Dr Mary Beth Brown">
     <div class="card-body">
       <h5 class="card-title">Dr Mary Beth Brown</h5>
-      <p class="card-text">American Heritage Center</p>
+      <p class="card-text">Toppan Librarian</p>
       <p class="card-text">University of Wyoming</p>
       <p class="card-text"><small class="text-muted">Mary.Brown@uwyo.edu</small></p>
     </div>
