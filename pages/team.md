@@ -145,10 +145,19 @@ permalink: /team/
 
         <!-- Team item -->
         <div class="col-xl-3 col-sm-6 mb-5">
-            <div class="bg-white rounded shadow-sm py-5 px-4"><img src="https://aeh0.github.io/findingaplace/img/Julia.jpeg" alt="Prof Julia Thomas" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-                <h5 class="mb-0">Prof Julia Thomas</h5><span class="small text-uppercase text-muted">Principal Investigator</span><span class="small text-uppercase text-muted">Cardiff University</span><span class="small text-uppercase text-muted">ThomasJ1@cardiff.ac.uk</span>
+            <div class="ratio ratio-1x1 rounded-circle overflow-hidden">
+              <div class="bg-white rounded shadow-sm py-5 px-4"><img src="https://aeh0.github.io/findingaplace/img/Julia.jpeg" alt="Prof Julia Thomas" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
+                <h5 class="card-title">Prof Julia Thomas</h5>
+                <p class="card-text">Principal Investigator</p>
+                <p class="card-text">Cardiff University</span>
+                <p class="card-text"><small class="text-muted">ThomasJ1@cardiff.ac.uk</p>
+              </div>
             </div>
-        </div><!-- End -->
+          </div>
+       <h5 class="card-title">Prof Julia Thomas</h5>
+      <p class="card-text">Principal Investigator</p>
+      <p class="card-text">Cardiff University</p>
+      <p class="card-text"><small class="text-muted">ThomasJ1@cardiff.ac.uk</small></p><!-- End -->
 
         <!-- Team item -->
         <div class="col-xl-3 col-sm-6 mb-5">
