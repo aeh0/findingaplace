@@ -262,6 +262,15 @@ content section
   overflow: flex-wrap;
 }
 
+.wax-inline-container-team {
+  @extend .container;
+
+  margin: auto;
+  max-width: 90%;
+  width: 90%;
+  overflow: flex-wrap;
+}
+
 .full-width {
   width: 100vw;
   position: relative;
