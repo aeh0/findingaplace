@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-> Hidden between the covers of old books lies a remarkable visual record of the world and its inhabitants...
+### Hidden between the covers of old books, lies a remarkable visual record of the world and its inhabitants...
 <p><a href="https://aeh0.github.io/findingaplace/img/globe-bw.jpg">
   <img src="https://aeh0.github.io/findingaplace/img/globe-bw.jpg"
        alt="Wood-engraving of a globe" align="left" width="400vw" margin="15px"></a></p>
