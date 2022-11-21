@@ -1,7 +1,7 @@
 ---
 layout: team
 title: Project team
-permalink: /team/
+permalink: /page/
 ---
 <div class="container">
   <div class="row">
