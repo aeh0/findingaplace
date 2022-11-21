@@ -6,7 +6,9 @@ permalink: /team/
 <div class="row">
   <div class="col-sm-6">
     <div class="card">
-      <img class="card-img-top" src="https://aeh0.github.io/findingaplace/img/Julia.jpg" alt="Prof Julia Thomas">
+      <div class="ratio ratio-1x1 rounded-circle overflow-hidden">
+        <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/Julia.jpeg" alt="Prof Julia Thomas">
+      </div>
     <div class="card-body">
       <h5 class="card-title">Prof Julia Thomas</h5>
       <p class="card-text">Principal Investigator</p>
