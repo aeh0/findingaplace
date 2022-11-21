@@ -28,7 +28,6 @@ permalink: /team/
     </div>
     </div>
   </div>
-  </div>
   
   <div class="col">
     <div class="card">
@@ -90,8 +89,7 @@ permalink: /team/
       <p class="card-text"><small class="text-muted">ThomasJ1@cardiff.ac.uk</small></p>
     </div>
     </div>
-  </div>
-  </div>
+    </div>
   
   <div class="col">
     <div class="card">
