@@ -3,7 +3,8 @@ layout: page
 title: Project team
 permalink: /team/
 ---
-<div class="card-deck">
+<div class="container">
+    <div class="row">
     <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
@@ -63,8 +64,9 @@ permalink: /team/
     </div>
     </div>
 
-
+    </div>
     
+    <div class-"row">
     <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/PaulF.jpg" alt="Prof Paul V.M. Flesher">
     <div class="card-body">
@@ -119,5 +121,5 @@ permalink: /team/
       <p class="card-text"><small class="text-muted">TestiniI@cardiff.ac.uk</small></p>
     </div>
     </div>
-
+    </div>
   </div>
