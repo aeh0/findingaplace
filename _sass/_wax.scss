@@ -111,8 +111,8 @@ content section
   margin: 0;
 
   h1, h2, h3, h4, h5, h5 {
-    margin-bottom: $less-margin;
-    margin-top: $more-margin;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
     font-family: $heading-font;
     letter-spacing: 0.1rem;
   }
