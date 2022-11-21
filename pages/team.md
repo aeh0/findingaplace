@@ -3,7 +3,7 @@ layout: page
 title: Project team
 permalink: /team/
 ---
-<div class="container">
+<div class="container-fluid">
     <div class="row">
         <div class="card-deck">
     <div class="card bg-light mb-3">
