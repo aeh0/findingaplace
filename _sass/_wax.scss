@@ -7,6 +7,8 @@ main body & containers
 */
 
 html, body {
+  margin: 0;
+  padding: 0;
   background-color: $bg-color;
   font-family: $body-font;
   font-display: auto;
@@ -29,6 +31,7 @@ a:hover {
 p {
   color: $text-color;
   max-width: 100%;
+  padding: 15px;
   margin-bottom: $less-margin;
   letter-spacing: .02rem;
   font-weight: 400;
