@@ -4,6 +4,7 @@ title: Project team
 permalink: /team/
 ---
 <div class="container">
+  <div class="card-group">
   <div class="row">
     
   <div class="col-sm-1">
@@ -145,3 +146,4 @@ permalink: /team/
            </div>
   </div>
     </div>
+  </div>
