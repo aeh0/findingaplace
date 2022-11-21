@@ -4,9 +4,9 @@ title: Project team
 permalink: /team/
 ---
 <div class="container">
-  <div class="row-mb-3">
+  <div class="row">
   <div class="col-sm-4">
-    <div class="card">
+    <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
       <h5 class="card-title">Prof Julia Thomas</h5>
@@ -18,7 +18,7 @@ permalink: /team/
   </div>
   
   <div class="col-sm-4">
-    <div class="card">
+    <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
       <h5 class="card-title">Prof Julia Thomas</h5>
@@ -30,7 +30,7 @@ permalink: /team/
   </div>
   
   <div class="col-sm-4">
-    <div class="card">
+    <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
       <h5 class="card-title">Prof Julia Thomas</h5>
@@ -42,9 +42,9 @@ permalink: /team/
   </div>
   </div>
   
-  <div class="row-mb-3">
+  <div class="row">
   <div class="col-sm-4">
-    <div class="card">
+    <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
       <h5 class="card-title">Prof Julia Thomas</h5>
@@ -56,7 +56,7 @@ permalink: /team/
   </div>
   
   <div class="col-sm-4">
-    <div class="card">
+    <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
       <h5 class="card-title">Prof Julia Thomas</h5>
@@ -68,7 +68,7 @@ permalink: /team/
     </div>
   
   <div class="col-sm-4">
-    <div class="card">
+    <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
       <h5 class="card-title">Prof Julia Thomas</h5>
@@ -80,9 +80,9 @@ permalink: /team/
     </div>
   </div>
   
-   <div class="row-mb-3">
+   <div class="row">
   <div class="col-sm-4">
-    <div class="card">
+    <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
       <h5 class="card-title">Prof Julia Thomas</h5>
@@ -94,7 +94,7 @@ permalink: /team/
   </div>
   
   <div class="col-sm-4">
-    <div class="card">
+    <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
       <h5 class="card-title">Prof Julia Thomas</h5>
@@ -106,7 +106,7 @@ permalink: /team/
     </div>
   
   <div class="col-sm-4">
-    <div class="card">
+    <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
       <h5 class="card-title">Prof Julia Thomas</h5>
