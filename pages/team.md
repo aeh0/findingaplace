@@ -41,7 +41,7 @@ permalink: /team/
     <div class="row">
     <div class="col-sm-3">
     <div class="card bg-light mb-3">
-      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Dr Mary Beth Brown">
+      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/MaryBeth.jpg" alt="Dr Mary Beth Brown">
     <div class="card-body">
       <h5 class="card-title">Dr Mary Beth Brown</h5>
       <p class="card-text">Toppan Librarian, American Heritage Center</p>
@@ -54,7 +54,7 @@ permalink: /team/
   
   <div class="col-sm-3">
     <div class="card bg-light mb-3">
-      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Alison Harvey">
+      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Alison.jpg" alt="Alison Harvey">
     <div class="card-body">
       <h5 class="card-title">Alison Harvey</h5>
       <p class="card-text">Archivist, Special Collections and Archives</p>
@@ -66,7 +66,7 @@ permalink: /team/
   
   <div class="col-sm-3">
     <div class="card bg-light mb-3">
-      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Alan Vaughan Hughes">
+      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Alan.jpg" alt="Alan Vaughan Hughes">
     <div class="card-body">
       <h5 class="card-title">Alan Vaughan Hughes</h5>
       <p class="card-text">Head of Special Collections and Archives</p>
@@ -78,7 +78,7 @@ permalink: /team/
   
   <div class="col-sm-3">
     <div class="card bg-light mb-3">
-      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Paul V.M. Flesher">
+      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/PaulF.jpg" alt="Prof Paul V.M. Flesher">
     <div class="card-body">
       <h5 class="card-title">Prof Paul V.M. Flesher</h5>
       <p class="card-text">Co-Investigator</p>
@@ -93,7 +93,7 @@ permalink: /team/
     
   <div class="col-sm-3">
     <div class="card bg-light mb-3">
-      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Margaret Gormley">
+      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Margaret.jpg" alt="Margaret Gormley">
     <div class="card-body">
       <h5 class="card-title">Margaret Gormley</h5>
       <p class="card-text">Graduate Research Assistant</p>
@@ -105,7 +105,7 @@ permalink: /team/
   
   <div class="col-sm-3">
     <div class="card bg-light mb-3">
-      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Omer Rana">
+      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Omer.jpg" alt="Prof Omer Rana">
     <div class="card-body">
       <h5 class="card-title">Prof Omer Rana</h5>
       <p class="card-text">Co-Investigator</p>
@@ -117,7 +117,7 @@ permalink: /team/
   
   <div class="col-sm-3">
     <div class="card bg-light mb-3">
-      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Paul Rosin">
+      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/PaulR.jpg" alt="Prof Paul Rosin">
     <div class="card-body">
       <h5 class="card-title">Prof Paul Rosin</h5>
       <p class="card-text">Co-Investigator</p>
@@ -129,7 +129,7 @@ permalink: /team/
   
      <div class="col-sm-3">
     <div class="card bg-light mb-3">
-      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Irene Testini">
+      <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Irene.jpg" alt="Irene Testini">
     <div class="card-body">
       <h5 class="card-title">Irene Testini</h5>
       <p class="card-text">Software Developer</p>
