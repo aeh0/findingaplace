@@ -5,7 +5,7 @@ permalink: /team/
 ---
 <div class="container">
   <div class="row">
-  <div class="col">
+  <div class="col-sm-2">
     <div class="card">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
@@ -17,7 +17,7 @@ permalink: /team/
     </div>
   </div>
   
-  <div class="col">
+  <div class="col-sm-2">
     <div class="card">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
@@ -29,7 +29,7 @@ permalink: /team/
     </div>
   </div>
   
-  <div class="col">
+  <div class="col-sm-2">
     <div class="card">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
@@ -41,7 +41,7 @@ permalink: /team/
     </div>
   </div>
   
-  <div class="col">
+  <div class="col-sm-2">
     <div class="card">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
@@ -53,7 +53,7 @@ permalink: /team/
     </div>
   </div>
 
-  <div class="col">
+  <div class="col-sm-2">
     <div class="card">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
@@ -67,7 +67,7 @@ permalink: /team/
   </div>
   
   <div class="row">
-  <div class="col">
+  <div class="col-sm-2">
     <div class="card">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
@@ -79,7 +79,7 @@ permalink: /team/
     </div>
   </div>
   
-  <div class="col">
+  <div class="col-sm-2">
     <div class="card">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
@@ -91,7 +91,7 @@ permalink: /team/
     </div>
     </div>
   
-  <div class="col">
+  <div class="col-sm-2">
     <div class="card">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
@@ -103,7 +103,7 @@ permalink: /team/
     </div>
   </div>
   
-  <div class="col">
+  <div class="col-sm-2">
     <div class="card">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
@@ -115,7 +115,7 @@ permalink: /team/
     </div>
   </div>
 
-  <div class="col">
+  <div class="col-sm-2">
     <div class="card">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
