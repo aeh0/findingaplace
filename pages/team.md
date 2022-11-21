@@ -33,7 +33,7 @@ permalink: /team/
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/MaryBeth.jpg" alt="Dr Mary Beth Brown">
     <div class="card-body">
       <h5 class="card-title">Dr Mary Beth Brown</h5>
-      <p class="card-text">Toppan Librarian, American Heritage Center</p>
+      <p class="card-text">Toppan Librarian</p>
       <p class="card-text">University of Wyoming</p>
       <p class="card-text"><small class="text-muted">Mary.Brown@uwyo.edu</small></p>
     </div>
@@ -46,7 +46,7 @@ permalink: /team/
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Alison.jpg" alt="Alison Harvey">
     <div class="card-body">
       <h5 class="card-title">Alison Harvey</h5>
-      <p class="card-text">Archivist, Special Collections and Archives</p>
+      <p class="card-text">Archivist, Special Collections</p>
       <p class="card-text">Cardiff University</p>
       <p class="card-text"><small class="text-muted">HarveyAE@cardiff.ac.uk</small></p>
     </div>
@@ -59,7 +59,7 @@ permalink: /team/
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Alan.jpg" alt="Alan Vaughan Hughes">
     <div class="card-body">
       <h5 class="card-title">Alan Vaughan Hughes</h5>
-      <p class="card-text">Head of Special Collections and Archives</p>
+      <p class="card-text">Head of Special Collections</p>
       <p class="card-text">Cardiff University</p>
       <p class="card-text"><small class="text-muted">HughesA18@cardiff.ac.uk</small></p>
     </div>
@@ -99,7 +99,7 @@ permalink: /team/
     <div class="card-body">
       <h5 class="card-title">Prof Omer Rana</h5>
       <p class="card-text">Co-Investigator</p>
-      <p class="card-text">School of Computer Science and Informatics, Cardiff University</p>
+      <p class="card-text">School of Computer Science, Cardiff University</p>
       <p class="card-text"><small class="text-muted">RanaOF@cardiff.ac.uk</small></p>
     </div>
   </div>
@@ -109,7 +109,7 @@ permalink: /team/
     <div class="card-body">
       <h5 class="card-title">Prof Paul Rosin</h5>
       <p class="card-text">Co-Investigator</p>
-      <p class="card-text">School of Computer Science and Informatics, Cardiff University</p>
+      <p class="card-text">School of Computer Science, Cardiff University</p>
       <p class="card-text"><small class="text-muted">RosinPL@cardiff.ac.uk</small></p>
     </div>
     </div>
