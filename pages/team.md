@@ -5,8 +5,11 @@ permalink: /team/
 ---
 <div class="container">
   <div class="row">
-  
-    <div class="col-sm-6">
+    
+  <div class="col-sm-3">
+  </div>
+    
+    <div class="col-sm-3">
     <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
@@ -18,7 +21,7 @@ permalink: /team/
     </div>
   </div>
   
-  <div class="col-sm-6">
+  <div class="col-sm-3">
     <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
@@ -28,6 +31,9 @@ permalink: /team/
       <p class="card-text"><small class="text-muted">ThomasJ1@cardiff.ac.uk</small></p>
     </div>
     </div>
+  </div>
+    
+  <div class="col-sm-3">
   </div>
     
   </div>
