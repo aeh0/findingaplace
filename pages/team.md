@@ -3,9 +3,10 @@ layout: page
 title: Project team
 permalink: /team/
 ---
-
+<div class="container-fluid">
         <div class="card-deck">
-    <div class="card bg-light mb-3">
+
+<div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
       <h5 class="card-title">Prof Julia Thomas</h5>
@@ -63,6 +64,7 @@ permalink: /team/
       <p class="card-text"><small class="text-muted">HughesA18@cardiff.ac.uk</small></p>
     </div>
     </div>
+    
 </div>
 
    <div class="card-deck">
@@ -123,3 +125,4 @@ permalink: /team/
         
     </div>
 
+</div>
