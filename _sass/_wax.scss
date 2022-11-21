@@ -183,10 +183,7 @@ content section
         font-weight: 400;
       }
     }
-#wax-content-team {
-    height: 80%;
-    width: 100%;
-    }
+
     .inline-image-reference {
       background-color: $neutral;
       margin-top: $more-margin;
@@ -265,14 +262,7 @@ content section
   overflow: flex-wrap;
 }
 
-.wax-inline-container-team {
-  @extend .container;
 
-  margin: auto;
-  max-width: 90%;
-  width: 90%;
-  overflow: flex-wrap;
-}
 
 .full-width {
   width: 100vw;
