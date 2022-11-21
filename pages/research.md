@@ -5,7 +5,7 @@ permalink: /research/
 ---
 <p><a href="https://aeh0.github.io/findingaplace/img/globe-bw.jpg">
   <img src="https://aeh0.github.io/findingaplace/img/globe-bw.jpg"
-       alt="Wood-engraving of a globe" align="left" width="30%" style="padding:15px"></a></p>
+       alt="Wood-engraving of a globe" align="left" width="30%" margin="15px"></a></p>
 
 <p>Hidden between the covers of old books lies a remarkable visual record of the world and its inhabitants. Book illustrations span centuries and represent everywhere from Wales to Wyoming. Illustrations tell stories about the ideas and beliefs of those who created and read them across time and space. They are also material objects, which circulated around the globe and contributed to transnational world views, both shared and contested. These images give new meanings to natural and built environments and foreground complex intersections between people and place in their depiction of the local and foreign, the traveller, the indigenous, colonized, and displaced. Illustrations are especially significant for cultural institutions, which are often heavily invested in locations and communities. A notion of place is intricately interwoven in the contextualization of collections and the ways in which institutions define themselves and are experienced and engaged with.</p>
 
