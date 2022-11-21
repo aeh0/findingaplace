@@ -6,10 +6,10 @@ permalink: /team/
 <div class="container">
   <div class="row">
     
-  <div class="col-sm-2">
+  <div class="col-sm-1">
   </div>
     
-    <div class="col-sm-4">
+    <div class="col-sm-2">
     <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
     <div class="card-body">
@@ -21,7 +21,7 @@ permalink: /team/
     </div>
   </div>
   
-  <div class="col-sm-4">
+  <div class="col-sm-2">
     <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Isa.jpg" alt="Prof Isadora Helfgott">
     <div class="card-body">
@@ -34,12 +34,6 @@ permalink: /team/
   </div>
     
   <div class="col-sm-2">
-  </div>
-    
-  </div>
-  
-    <div class="row">
-    <div class="col-sm-3">
     <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/MaryBeth.jpg" alt="Dr Mary Beth Brown">
     <div class="card-body">
@@ -52,7 +46,7 @@ permalink: /team/
   </div>
 
   
-  <div class="col-sm-3">
+  <div class="col-sm-2">
     <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Alison.jpg" alt="Alison Harvey">
     <div class="card-body">
@@ -62,9 +56,11 @@ permalink: /team/
       <p class="card-text"><small class="text-muted">HarveyAE@cardiff.ac.uk</small></p>
     </div>
     </div>
-  </div>
+    </div>
+    
+      
   
-  <div class="col-sm-3">
+  <div class="col-sm-2">
     <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Alan.jpg" alt="Alan Vaughan Hughes">
     <div class="card-body">
@@ -76,7 +72,17 @@ permalink: /team/
     </div>
     </div>
   
-  <div class="col-sm-3">
+    <div class="col-sm-1">
+  </div>
+    
+  </div>
+  
+<div class="row">
+  
+         <div class="col-sm-1">
+           </div>
+  
+  <div class="col-sm-2">
     <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/PaulF.jpg" alt="Prof Paul V.M. Flesher">
     <div class="card-body">
@@ -87,11 +93,8 @@ permalink: /team/
     </div>
     </div>
     </div>
-  </div>
-  
-   <div class="row">
     
-  <div class="col-sm-3">
+  <div class="col-sm-2">
     <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Margaret.jpg" alt="Margaret Gormley">
     <div class="card-body">
@@ -103,7 +106,7 @@ permalink: /team/
     </div>
     </div>
   
-  <div class="col-sm-3">
+  <div class="col-sm-2">
     <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Omer.jpg" alt="Prof Omer Rana">
     <div class="card-body">
@@ -115,7 +118,7 @@ permalink: /team/
     </div>
     </div>
   
-  <div class="col-sm-3">
+  <div class="col-sm-2">
     <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/PaulR.jpg" alt="Prof Paul Rosin">
     <div class="card-body">
@@ -127,7 +130,7 @@ permalink: /team/
     </div>
   </div>
   
-     <div class="col-sm-3">
+     <div class="col-sm-2">
     <div class="card bg-light mb-3">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Irene.jpg" alt="Irene Testini">
     <div class="card-body">
@@ -138,6 +141,7 @@ permalink: /team/
     </div>
     </div>
   </div>
-     
+          <div class="col-sm-1">
+           </div>
   </div>
     </div>
