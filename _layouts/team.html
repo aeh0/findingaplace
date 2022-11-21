@@ -10,9 +10,6 @@ layout: team
   <body>
     <time datetime='{{ 'now' | date: '%Y-%m-%d %H:%M' }}'></time>
     {% include header.html %}
-{% unless page.show_title == false %}
-  <h2 class='page-title'>{{ page.title }}</h2>
-{% endunless %}
 
     {% if page.banner %}
       {% assign b = page.banner %}
