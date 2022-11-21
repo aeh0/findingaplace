@@ -4,7 +4,7 @@ title: Project team
 permalink: /team/
 ---
 <div class="container">
-  <div class="row">
+  <div class="row-mb-3">
   <div class="col-sm-4">
     <div class="card">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
@@ -42,7 +42,7 @@ permalink: /team/
   </div>
   </div>
   
-  <div class="row">
+  <div class="row-mb-3">
   <div class="col-sm-4">
     <div class="card">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
@@ -80,7 +80,7 @@ permalink: /team/
     </div>
   </div>
   
-   <div class="row">
+   <div class="row-mb-3">
   <div class="col-sm-4">
     <div class="card">
       <img class="card-img-top img-cover" src="https://aeh0.github.io/findingaplace/img/team/Julia.jpg" alt="Prof Julia Thomas">
