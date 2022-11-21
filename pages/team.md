@@ -99,7 +99,7 @@ permalink: /team/
     <div class="card-body">
       <h5 class="card-title">Prof Omer Rana</h5>
       <p class="card-text">Co-Investigator</p>
-      <p class="card-text">School of Computer Science, Cardiff University</p>
+      <p class="card-text">Cardiff University</p>
       <p class="card-text"><small class="text-muted">RanaOF@cardiff.ac.uk</small></p>
     </div>
   </div>
@@ -109,7 +109,7 @@ permalink: /team/
     <div class="card-body">
       <h5 class="card-title">Prof Paul Rosin</h5>
       <p class="card-text">Co-Investigator</p>
-      <p class="card-text">School of Computer Science, Cardiff University</p>
+      <p class="card-text">Cardiff University</p>
       <p class="card-text"><small class="text-muted">RosinPL@cardiff.ac.uk</small></p>
     </div>
     </div>
