@@ -6,4 +6,6 @@ permalink: /events/
 
 ### Keep your eyes peeled for our upcoming events...
 
-![Wood-engraving of people meeting on a veranda](img/meeting.jpg)
+<p><a href="https://aeh0.github.io/findingaplace/img/meeting.jpg">
+  <img src="https://aeh0.github.io/findingaplace/img/meeting.jpg"
+       alt="Wood-engraving of people meeting on a veranda"></a></p>
