@@ -4400,11 +4400,14 @@ input[type="button"].btn-block {
 .card-body {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
-  padding: 1.25rem;
+  padding: 0.25rem;
 }
 
 .card-title {
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.25rem;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-weight: bold;
 }
 
 .card-subtitle {
