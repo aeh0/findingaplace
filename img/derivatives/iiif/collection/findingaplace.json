@@ -16,6 +16,11 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/banner/manifest.json",
       "@type": "sc:Manifest",
       "label": "banner"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/banner2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "banner2"
     }
   ]
 }
