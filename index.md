@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: findingaplace
-  pid: banner
+  pid: banner2
   y: 25%
   height: '500px'
 ---
